@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}{{ dish.name }}{% endblock %}
+{% block script %}
+{% endblock %}
+{% block content %}
+
+<h2 class="PageHeader">{{ dish.name }}</h2>
+
+<br>
+
+<div>
+   <iframe width="375" height="250" src="{{ dish.link }}" style="display: block; margin: 0 auto;">
+    </iframe>
+    </br>
+    </br>
+    </br>
+    <div style="overflow: scroll; overflow-x: hidden; height: 150px; width: 400px; display: block; margin: 0 auto;">
+        <p>Ingredients</p>
+        {% for ingredient in dish.quantity %}
+            <tr>
+                <td>{{ ingredient }}</td>
+                </br>
+            </tr>
+        {% endfor %}
+    </div>
+</div>
+
+<div class="footer">
+    <div class="row">
+        <div class="col-6">
+            <a href="{{ url_for('home') }}"><img src="../static/img2.png" width="40em" height="60em"></a>
+        </div>
+        <div class="col-6">
+            <a href="{{ url_for('topDishes') }}"><img src="../static/img1.png" width="40em" height="60em"></a>
+        </div>
+    </div>
+</div>
+{% endblock %}
