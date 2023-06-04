@@ -1,0 +1,4 @@
+- Sometimes we might find the case where <width: 100%> is over the parent container. This is due to box-sizing.
+  To sovle this we simply apply CSS to the parent tag: change from <* {box-siaing: content-box}> to <* {box-siaing: border-box}>
+
+REF: https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing

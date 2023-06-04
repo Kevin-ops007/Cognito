@@ -1,0 +1,3 @@
+Push work from my machine to UVic: scp -r <folder/file> pchuthamsatid@linux.csc.uvic.ca:
+
+Access UVic machine: ssh pchuthamsatid@linux.csc.uvic.ca

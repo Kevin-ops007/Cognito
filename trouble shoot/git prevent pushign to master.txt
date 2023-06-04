@@ -1,0 +1,7 @@
+To prevent a direct git push to master branch + need 1 approval from a PR
+ref: https://stackoverflow.com/questions/46146491/prevent-pushing-to-master-on-github#:~:text=To%20find%20it%20go%20to,pull%20request%20reviews%20before%20merging.
+
+1. github > Settings > Branches > Branch Protection Rules and click 'Add Rule'
+2. enter a protected branch name (eg. main)
+3. check "Require PR before merging" == cannot push directly to main == can only update main by merging from another brach
+4. Select Require approving review: 1 == need another approval

@@ -1,0 +1,6 @@
+- Switch IDE to VScode
+- install jupyter extension
+- python -m venv venv
+- venv/Scripts/activate
+- pop up to install 'ipykernel' from vscode
+- https://www.youtube.com/watch?v=jNk-ZmeIz6c&t=301s

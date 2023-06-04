@@ -1,0 +1,10 @@
+1. select project name drop down on the top right
+2. select edit configurations
+3. Write file_name.ext you want to pass as an agrument to "program arguement"
+4. run the program
+
+equivalent to:
+eg. javac file_name.java
+    java file_name image1.png
+
+    

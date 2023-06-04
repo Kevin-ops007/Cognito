@@ -1,0 +1,14 @@
+1. limit area of rerender by moving useState to a child component
+- Reference: https://medium.com/welldone-software/how-to-reduce-unnecessary-re-renders-3f840d8b2f27
+
+2. In the case where page is printed before finish loading, try use useLayoutEffect()
+
+3. if image flickers after rerendering, we can wrap the component that return image with React.memo(ComponentName)
+- Reference: https://github.com/react-native-elements/react-native-elements/issues/2233      from raRaRa commented on Feb 25, 2020
+ex:
+const FunctionalComponent= () => {
+    return (<h1>Hello world</h1>)
+}
+
+export default React.memo(FunctionalComponent)
+

@@ -1,0 +1,8 @@
+If you deployed Heroku app. It does upload successfully but when opening app, it show app crashes
+
+1. create a requirement file: pip freeze > requirements.txt
+2. Create a Procfile
+3. push only python file, database, JSon, static&template folder (if css and HTML applicable), pip file
+3.1 Basically everything except for venv folder (virtualenv)
+4. push to github manually without using command promp
+5. deploy to heroku manually without using command promp via "deploy"

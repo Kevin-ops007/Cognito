@@ -1,0 +1,3 @@
+How to install pyhton library
+
+file > setting > project > project Interpreter > + > type library name

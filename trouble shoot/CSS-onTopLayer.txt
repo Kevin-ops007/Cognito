@@ -1,0 +1,18 @@
+<>
+	<div class="top">
+		<layer1 />
+	</div>
+	<layer2 class="buttom"/>
+</>
+
+.top {
+    background-color: rgba(0, 0, 0, 0.75);
+    position: absolute;
+    height: 113vh; // (max)
+    z-index: 100;
+    width: 100%;
+}
+
+.buttom {
+z-index: 1,
+}

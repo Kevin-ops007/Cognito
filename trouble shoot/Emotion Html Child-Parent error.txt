@@ -1,0 +1,3 @@
+Error: Unhandle Runtime Error: 'remove child on node'
+option 1: keep class, remove Emotion tag
+option 2: keep Emotion tag, remove class

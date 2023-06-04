@@ -1,0 +1,6 @@
+0. login to mysql: mysql -u <user> -p
+1. SET GLOBAL sql_mode=(SELECT REPLACE(@@sql_mode,'ONLY_FULL_GROUP_BY',''));
+2. Look at <SELECT @@sql_mode;>. No "ONLY_FULL-GROUP_BY"
+3. quit
+4. log in: mysql -u <user> -p
+5. Look at <SELECT @@sql_mode;>, YES "ONLY_FULL-GROUP_BY"

@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/65640476/pip3-on-python3-9-fails-on-htmlparser-object-has-no-attribute-unescape
+
+pip3 install --upgrade setuptools

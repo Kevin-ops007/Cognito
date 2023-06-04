@@ -1,0 +1,5 @@
+ref - https://stackoverflow.com/questions/5788037/recover-from-git-reset-hard/5788069
+
+try this first:
+git reflog
+git reset {commit Id of the commit you want to bring back}

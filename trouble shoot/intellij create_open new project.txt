@@ -1,0 +1,5 @@
+create a new project
+- File -> new -> project -> select SDK (oe download) -> find a right folder to work on in your PC
+
+Continue an existing project
+- File -> new -> project -> select SDK (oe download) -> find a right folder to work on in your PC -> drag an existing file you want to src folder

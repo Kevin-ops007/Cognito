@@ -1,0 +1,5 @@
+Cannot read txt file
+
+solution 
+1. try to put txt file before outside src
+2. Then path = "src\\file.ext"

@@ -1,0 +1,3 @@
+How to solve select all doesnt respond issue
+preference -> keyboard shortcut -> when -> right click -> "Change When Expression" -> type "editorFocus"
+- https://stackoverflow.com/questions/61302917/ctrl-a-to-select-all-not-working-in-visual-code

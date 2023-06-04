@@ -1,0 +1,2 @@
+- git remote rm origin
+- git remote add origin  https://USERNAME:PASSWORD@github.com/username/reponame.git

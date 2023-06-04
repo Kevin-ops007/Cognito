@@ -1,0 +1,10 @@
+error after run nodemon app: "nodemon : The term 'nodemon' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a 
+path was included, verify that the path is correct and try again."
+
+solution: https://stackoverflow.com/questions/40359590/nodemon-command-is-not-recognized-in-terminal-for-node-js-server 
+1. add to node/package.json 
+"scripts": {
+    "serve": "nodemon app.js"
+  }
+
+2. run <npm run serve>

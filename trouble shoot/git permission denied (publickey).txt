@@ -1,0 +1,12 @@
+error:
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+solution: 
+1. go to git repo that want to push, and select HTTPs instead of SSH key
+2. copy the key
+3. git remote set-url origin HTTPsKey
+4. push and Done

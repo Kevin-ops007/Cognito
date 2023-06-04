@@ -1,0 +1,5 @@
+you may need to add npm packages manually to environment variables
+- use this command to find path: npm list -g
+get the path location and add it to environment variables PATH
+
+============================

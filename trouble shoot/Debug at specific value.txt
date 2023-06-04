@@ -1,0 +1,4 @@
+1. Mark a debug red dot on the line you want to stop (eg a line that contain a confition: loop, if, switch etc)
+2. right click on the read dot
+3. Write in a condition input box (eg. if you want the loop to stop for debug at num=6 then type <num=6>)
+4. run a debugger, the program will stop at the loop when num=6

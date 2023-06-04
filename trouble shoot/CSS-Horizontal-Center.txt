@@ -1,0 +1,11 @@
+justify-content: center;//group center
+justify-content: space-between;//center with space between each echild element
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+display: flex;
+align-items: center;
+
+text-align: center;

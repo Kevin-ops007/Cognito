@@ -1,0 +1,3 @@
+cannont type cd folder1/folder2 Name
+
+- try cd folder1/"folder2 Name"

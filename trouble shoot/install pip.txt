@@ -1,0 +1,9 @@
+https://www.liquidweb.com/kb/install-pip-windows/
+
+if the above does not work, copy pip path to variable environment
+1. search for python on search bar
+2. select python + open file location
+3. find Script directory + enter + copy the path
+4. go to variable environment
+5. select path + edit
+6. crreate new path + enter the copied path 

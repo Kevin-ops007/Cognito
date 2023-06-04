@@ -1,0 +1,12 @@
+- click gudget icon on the left buttom
+- click setting
+- search for autocomplete
+- click 'Edit in setting.json'
+- add:
+
+  "python.autoComplete.extraPaths": [
+    "C:\\Users\\Poomon\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+  ],
+  "python.languageServer": "Pylance",
+
+https://www.youtube.com/watch?v=ILmedtqtrQ8

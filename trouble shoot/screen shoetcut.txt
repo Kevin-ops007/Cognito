@@ -1,0 +1,2 @@
+https://windowsreport.com/move-apps-between-monitors-windows-10/
+- To move tab from one monitor to another: win+shift+left/right

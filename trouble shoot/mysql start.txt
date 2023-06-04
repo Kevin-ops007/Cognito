@@ -1,0 +1,8 @@
+Run on terminal
+1. mysql -u user_name -p
+2. enter passward
+
+Run on a file.sql and direct output to tsv
+0. create test.sql and results.tsv files
+1. mysql -u user_name -p < test.sql > results.tsv
+2. enter passward

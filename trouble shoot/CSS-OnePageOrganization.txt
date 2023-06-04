@@ -1,0 +1,19 @@
+<section class="container">
+	<section class="section1">{element}</section>
+	<section class="sectio2n">{element}</section>
+</section>
+
+.container {
+    min-height: 100vh;
+    background: linear-gradient(yellow, turquoise);
+}
+
+.section1 {
+    position: relative;
+    top: 40vh;
+}
+
+.section2 {
+    position: relative;
+    top: 80vh;
+}

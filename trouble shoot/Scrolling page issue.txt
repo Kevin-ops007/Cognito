@@ -1,0 +1,8 @@
+=== prevent scrolling ===
+- Ref: https://css-tricks.com/prevent-page-scrolling-when-a-modal-is-open/
+- use css attribute: overflow-y: hidden;
+
+
+=== want to scroll but not scrolling ===
+- use css attribute: overflow-y: auto;
+- assign hight to the parent container in "px": height: 340px;

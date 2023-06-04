@@ -1,0 +1,4 @@
+To see history a part from a chrome history:
+ 
+https://myaccount.google.com/data-and-privacy?hl=en
+https://myactivity.google.com/activitycontrols?pli=1&otzr=1

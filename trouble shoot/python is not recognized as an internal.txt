@@ -1,0 +1,11 @@
+python is not recognized as an internal or external command operable program batch file
+
+solution:
+ref - https://www.youtube.com/watch?v=i4yJi-cpwWk
+1. search for python on search bar
+2. select python + open file location
+3. find python.exe + open file location again
+4. copy the path
+5. go to Environment variables
+6. select path + edit + add the path
+7. Done

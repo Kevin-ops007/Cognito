@@ -1,0 +1,2 @@
+enable: https://stackoverflow.com/questions/52586965/why-prettier-does-not-format-code-in-vscode
+disable: https://dev.to/gulshansaini/how-to-disable-prettier-in-vscode-for-a-specific-project-2a48

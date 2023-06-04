@@ -1,0 +1,2 @@
+https://www.sqlitetutorial.net/download-install-sqlite/
+https://stackoverflow.com/questions/10388354/sqlite-from-command-prompt-not-recognized-command

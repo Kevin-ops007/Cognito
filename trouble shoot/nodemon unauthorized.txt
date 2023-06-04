@@ -1,0 +1,4 @@
+Step 0: if npm is not recongized check "npm is not recongnize.txt"
+step 1: https://www.liquidweb.com/kb/install-pip-windows/
+get strucked?
+step 2: https://stackoverflow.com/questions/27753917/how-do-you-successfully-change-execution-policy-and-enable-execution-of-powershe

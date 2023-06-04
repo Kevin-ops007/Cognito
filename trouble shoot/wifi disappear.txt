@@ -1,0 +1,26 @@
+ref - https://www.youtube.com/watch?v=0q9KdlBypoM&list=FLbreqQgHLE9IyCovwQnGP-A&index=1
+
+1. go to asus website -> search for labtop series => install "intell wireless LAN" => restart
+
+*2. go to computer management -> Device Manager -> Wireless-AC -> Updae driver -> Select Browse my computer for driver -> Let me pick from a list of ... my computer -> select one -> next
+Done
+
+3. uninstall duplicate intel wireless adapter: 1. check if there is a duplicate adapter?, go to magage click update wireless adapter, follw *step 2 and see if there is a duplicate adapter or not (same name)
+3.1. if no there is not skip to step 4
+3.2 if there is, exit the update, uninstall the adapter, reset the PC, keep repeat step 3.2 until only one adapter left (one reset will remove 1 adapter only, if there are 3 dup then need 3 resets) 
+
+**4. install <Intel Driver & Support Assistant>, then update wireless adapter, then install intel ProSet wireless software, may need to go to Intel Driver & Support Assistant to update ProSet wireless software
+**4.1 install Intel Driver & support: https://answers.microsoft.com/en-us/windows/forum/all/wifi-suddenly-stopped-working-on-my-laptop/e7d0d662-eeba-4be4-b5c8-621cac26f6cf
+				    : https://answers.microsoft.com/en-us/windows/forum/all/intel-wireless-ac-9560-driver-error-code-10-after/43adcbe3-9d14-4fb2-b12f-9dab7d09b49c
+**4.2 instal intel ProSet wireless software: https://www.intel.com/content/www/us/en/download/18231/intel-proset-wireless-software-and-drivers-for-it-admins.html
+**4.3. other methods: https://www.drivereasy.com/knowledge/solved-intel-wireless-ac-9560-not-working-code-10/
+**4.4 other methods2: https://blog.pcrisk.com/windows/12658-windows-couldnt-automatically-bind-the-ip-protocol-stack-to-the-network-adapter
+
+5. right click on global (where wifi disappear), open network and internet setting, change adapter option, trobleshoot problematic wifi.
+** https://www.youtube.com/watch?v=JA3yQ1dY5DM&t=1s
+
+6. unplug the wifi card: https://answers.microsoft.com/en-us/windows/forum/all/intel-wireless-ac-9560-driver-error-code-10-after/43adcbe3-9d14-4fb2-b12f-9dab7d09b49c?page=2
+
+7. Remove mcaffe: https://www.reddit.com/r/pcmasterrace/comments/8t5ju6/code_10_on_intel_wireless_ac_9560/
+
+8. reset Bios: https://www.youtube.com/watch?v=p0KwwNLfdAA

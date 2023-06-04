@@ -1,0 +1,1 @@
+git remote add <git ropo Name> https://github.com/Poomon001/test.git
